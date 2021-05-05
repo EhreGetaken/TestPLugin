@@ -1,0 +1,10 @@
+name: TestPlugin
+version: 1.0
+author: Espen
+main: eu.imposdev.testplugin.TestPlugin
+
+commands:
+  changetime:
+  changeweather:
+  gm:
+  control:
